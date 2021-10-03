@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_URL =  'http://jingonya.pythonanywhere.com/'; /*'https://movie-api2021.herokuapp.com' ; /*'https://movies-groyce.pythonanywhere.com'; /* 'http://localhost:8000' http://127.0.0.1:8000/ or  'https://movies-groyce.pythonanywhere.com'*/
+const API_URL =  'https://jingonya.pythonanywhere.com/'; /*'https://movie-api2021.herokuapp.com' ; /*'https://movies-groyce.pythonanywhere.com'; /* 'http://localhost:8000' http://127.0.0.1:8000/ or  'https://movies-groyce.pythonanywhere.com'*/
 
 export class APIService {
   constructor() {
